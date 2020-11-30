@@ -1,0 +1,6 @@
+files:
+  - source: /**/*.adoc
+    ignore:
+      - /_unused_topics
+      - /_snippets
+    translation: /Translations/%locale%/**/%original_file_name%
